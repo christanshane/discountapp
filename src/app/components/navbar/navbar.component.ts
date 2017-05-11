@@ -12,4 +12,8 @@ export class NavbarComponent implements OnInit {
   ngOnInit() {
   }
 
+  login(){
+    // this.afAuth.auth.signInWithEmailAndPassword();
+  }
+
 }
